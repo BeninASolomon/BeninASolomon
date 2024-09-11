@@ -10,9 +10,7 @@ I am a passionate **Research Programmer** and **Data Scientist** with 2 years of
 ## 🚀 Projects:
 - **[Densely Self-guided Wavelet Network (DSWN)](https://github.com/BeninASolomon/DSWN-image-denoising)**: An advanced network for image denoising using wavelet transforms.
 
-
-
-- ### [DEXTR Extreme Points Segmentation](https://github.com/BeninASolomon/DEXTR-extreme-points-segmentation): An advanced network for image Segmentation
+- **[DEXTR Extreme Points Segmentation](https://github.com/BeninASolomon/DEXTR-extreme-points-segmentation): An advanced network for image Segmentation
 
 
 
